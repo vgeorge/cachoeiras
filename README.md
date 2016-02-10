@@ -1,6 +1,6 @@
 ## Cachoeiras e quedas-d'águas do Brasil
 
-Dados obtidos do [OpenStreetMap](www.openstreet.map) em 10/02/2016:
+Dados obtidos do [OpenStreetMap](www.openstreet.map) no dia 10 de fevereiro de 2016:
 
 <a href="https://github.com/vgeorge/cachoeiras/blob/master/quedas-dagua-2016-02-10.geojson" target="_blank">
 ![Exibir no mapa](mapa.png)
@@ -10,7 +10,7 @@ Dados obtidos do [OpenStreetMap](www.openstreet.map) em 10/02/2016:
 * [Guia de mapeamento (em inglês)](http://wiki.openstreetmap.org/wiki/Waterfalls)
 * [Artigo sobre quedas-dágua na Wikipédia](https://pt.wikipedia.org/wiki/Queda_de_%C3%A1gua)
 
-Execute esta [consulta do Overpass](http://overpass-turbo.eu/s/ekI) para obter dados mais atualizados:
+Execute esta [consulta do Overpass](http://overpass-turbo.eu/s/ekI) para obter dados atualizados:
 
 ```
 [out:json];
