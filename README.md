@@ -2,7 +2,7 @@
 
 Dados obtidos do [OpenStreetMap](www.openstreet.map) em 10/02/2016:
 
-* [Exibir no mapa](https://github.com/vgeorge/cachoeiras/blob/master/quedas-dagua-2016-02-10.geojson)
+[![Exibir no mapa](mapa.png)](https://github.com/vgeorge/cachoeiras/blob/master/quedas-dagua-2016-02-10.geojson)
 * [Baixar os dados](https://github.com/vgeorge/cachoeiras/raw/master/quedas-dagua-2016-02-10.geojson)
 * [Guia de mapeamento](http://wiki.openstreetmap.org/wiki/Waterfalls) (em inglês)
 * [Wikipédia](https://pt.wikipedia.org/wiki/Queda_de_%C3%A1gua)
