@@ -26,4 +26,4 @@ out skel qt;
 
 ## Licença
 
-Estes dados estão sob a *Open Database License (ODbL)*, consulte os [termos de uso]((http://www.openstreetmap.org/copyright) no site do OpenStreetMap.
+Estes dados estão sob a *Open Database License (ODbL)*, consulte os [termos de uso](http://www.openstreetmap.org/copyright).
