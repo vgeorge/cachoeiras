@@ -2,7 +2,7 @@
 
 Um mapa de cachoeiras e quedas-d'água do Brasil, baseado no [OpenStreetMap](www.openstreetmap.org). Clique na imagem para navegar:
 
-<a href="https://github.com/vgeorge/cachoeiras/blob/master/quedas-dagua-2016-02-10.geojson" target="_blank">
+<a href="https://github.com/vgeorge/cachoeiras/blob/master/cachoeiras.geojson" target="_blank">
 ![Exibir no mapa](mapa.png)
 </a>
 
