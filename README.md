@@ -1,17 +1,16 @@
-## Cachoeiras e quedas-d'águas do Brasil
+## Cachoeiras do Brasil
 
-Como é possível preservar cachoeiras se não sabemos onde elas estão? Não é difícil imaginar que muitas já desapareceram devido a fiscalização precária e descaso com o meio ambiente. Este repositório reune dados produzidos colaborativamente sobre a localização de cachoeiras e quedas d'águas do Brasil presentes na base de dados do [OpenStreetMap](www.openstreetmap.org).
-
-O mapa abaixo (de fevereiro de 2016) mostra que a maior parte do mapeamento está no sudeste e sul do país, e que ainda falta muito a ser mapeado. Para participar, crie uma conta no OpenStreetMap e adicione nós com a etiqueta `waterway=waterfall`. No [guia de mapeamento](http://wiki.openstreetmap.org/wiki/Waterfalls) no [wiki](wiki.openstreetmap.org) do [OpenStreetMap](www.openstreetmap.org) há mais detalhes.
-
+Um mapa de cachoeiras e quedas-d'água do Brasil, baseado no [OpenStreetMap](www.openstreetmap.org). Clique na imagem para navegar:
 
 <a href="https://github.com/vgeorge/cachoeiras/blob/master/quedas-dagua-2016-02-10.geojson" target="_blank">
 ![Exibir no mapa](mapa.png)
 </a>
 
-Baixe os dados:
+Última atualização: 31 de outubro de 2016
 
-* [ quedas-dagua-2016-02-10.geojson](https://github.com/vgeorge/cachoeiras/raw/master/quedas-dagua-2016-02-10.geojson)
+### Como mapear
+
+Crie uma conta no OpenStreetMap e adicione nós com a etiqueta `waterway=waterfall`. No [guia de mapeamento](http://wiki.openstreetmap.org/wiki/Waterfalls) no [wiki](wiki.openstreetmap.org) do [OpenStreetMap](www.openstreetmap.org) há mais detalhes.
 
 ### Obtendo dados atualizados
 
