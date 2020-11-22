@@ -1,0 +1,14 @@
+{
+  "name": "cachoeiras",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vgeorge/cachoeiras.git",
+  "author": "Vitor George <vitor.george@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "download": "query-overpass cachoeiras.ql > cachoeiras.geojson"
+  },
+  "devDependencies": {
+    "query-overpass": "^1.5.5"
+  }
+}
