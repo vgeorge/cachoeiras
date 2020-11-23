@@ -5,10 +5,13 @@
   "repository": "git@github.com:vgeorge/cachoeiras.git",
   "author": "Vitor George <vitor.george@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "download": "query-overpass cachoeiras.ql > cachoeiras.geojson"
   },
   "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20",
     "query-overpass": "^1.5.5"
   }
 }
